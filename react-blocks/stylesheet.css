@@ -1,0 +1,14 @@
+* {    
+    box-sizing: border-box;}
+
+.Blocks {    
+    height: 200px;    
+    width: 200px;    
+    border: 2px solid black;}
+    
+#red {    
+        background-color: red;}
+#yellow {    
+            background-color: yellow;}
+#weird {    
+                background-color: #759174;}

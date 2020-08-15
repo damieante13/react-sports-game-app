@@ -1,0 +1,16 @@
+.ScoreBoard {
+  display: flex;
+  justify-content: center;
+  font-family: "Score Board", sans-serif;
+  text-align: center;
+  background: #2c2c2c;
+  color: #fd8049;
+  text-shadow: 0 0 3px #fd8049;
+  padding: 1rem 0;
+}
+.ScoreBoard h3 {
+  margin: 0;
+}
+.ScoreBoard .teamStats {
+  flex: 1;
+}
